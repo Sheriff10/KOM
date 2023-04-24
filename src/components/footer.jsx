@@ -8,7 +8,11 @@ export const Footer = () => {
             <div className="row justify-content-center">
                <div className="col-lg-10 col-12 f-card-con">
                   <div className="f-logo">
-                    <img src="m2.png" alt="King Of Meme" className="img-fluid"/>
+                     <img
+                        src="m2.png"
+                        alt="King Of Meme"
+                        className="img-fluid"
+                     />
                   </div>
                   <div className="row">
                      <div className="col-lg-6 col-md-6 col-12">
@@ -18,12 +22,16 @@ export const Footer = () => {
                            </div>
                            <div className="f-card-text">
                               <p>
-                                 Lorem ipsum dolor sit amet consectetur
-                                 adipisicing elit. Error odio incidunt deserunt
-                                 soluta necessitatibus, veritatis unde.
-                                 Recusandae eligendi excepturi reiciendis ea ex,
-                                 cum ipsam, explicabo quo voluptatibus
-                                 blanditiis omnis doloremque.
+                                 KOM is a Hyper Deflationary Reward token built
+                                 on the ARBITRUM blockchain and the governance
+                                 token for the ecosystem.. It has a total supply
+                                 of 10 billion tokens, with no plan to mint
+                                 more. KOM has a tax of 5%, where 1% is for ARB
+                                 reflection, 3% is for Marketing and 1% is for
+                                 automatic burn, reducing the total supply over
+                                 time. This model incentivizes holders to keep
+                                 their tokens, increasing the value of the token
+                                 over time.
                               </p>
                            </div>
                         </div>
@@ -36,16 +44,16 @@ export const Footer = () => {
                            <div className="f-card-text">
                               <ul>
                                  <li>
-                                    <a href="#">About dn</a>
+                                    <a href="#about">About</a>
                                  </li>
                                  <li>
-                                    <a href="#">About</a>
+                                    <a href="#tokenomics">Tokenomics</a>
                                  </li>
                                  <li>
-                                    <a href="#">About</a>
+                                    <a href="#roadmap">Roadmap</a>
                                  </li>
                                  <li>
-                                    <a href="#">About</a>
+                                    <a href="#">Build</a>
                                  </li>
                               </ul>
                            </div>
@@ -59,12 +67,14 @@ export const Footer = () => {
                            <div className="f-card-text">
                               <div className="socials">
                                  <i>
-                                    {" "}
-                                    <FaTwitter />{" "}
+                                    <a href="https://twitter.com/KingOfMemees?t=bi0PQrvYI34pEjvgn0P0Sw&s=09">
+                                       <FaTwitter />
+                                    </a>
                                  </i>
                                  <i>
-                                    {" "}
-                                    <FaTelegram />{" "}
+                                    <a href="https://t.me/KINGOFMEMESOFFICIAL">
+                                       <FaTelegram />
+                                    </a>
                                  </i>
                               </div>
                            </div>

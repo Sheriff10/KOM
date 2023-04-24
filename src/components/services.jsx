@@ -9,17 +9,17 @@ export const Services = () => {
       cardFunc(
          <FaChartBar />,
          "KOMPad",
-         "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis atque harum alias quasi at voluptates doloremque, debitis earum fugit unde eos est ipsa incidunt inventore pariatur ipsam voluptatem! Placeat, quaerat!"
+         "King of memes ($KOM) will also feature a launch pad that serves as a platform for new projects to incubate their project, and finance their ideas."
       ),
       cardFunc(
          <FaRecycle />,
          "KOMSwap",
-         "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis atque harum alias quasi at voluptates doloremque, debitis earum fugit unde eos est ipsa incidunt inventore pariatur ipsam voluptatem! Placeat, quaerat!"
+         "In addition to the launch pad, King of memes ($KOM) will also feature a swap platform that allows holders to trade their tokens in a decentralized manner."
       ),
       cardFunc(
          <FaImage />,
          "KOM NFT LAunch",
-         "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis atque harum alias quasi at voluptates doloremque, debitis earum fugit unde eos est ipsa incidunt inventore pariatur ipsam voluptatem! Placeat, quaerat!"
+         "$KOM intends to create an NFT collection that features popular internet memes. The NFT collection will be created in collaboration with meme creators and will offer unique digital assets that can be traded and collected."
       ),
    ];
    return (

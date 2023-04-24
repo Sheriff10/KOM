@@ -11,16 +11,22 @@ export const About = () => {
                      <h1>THE MEME REVOLUTION IS HERE</h1>
                      <div className="">
                         <p>
-                           Lorem, ipsum dolor sit amet consectetur adipisicing
-                           elit. Repudiandae non doloremque dolorum. Esse
-                           dolorem unde ducimus itaque minima! Optio, molestias
-                           eaque. Libero eaque, sint vel possimus nostrum aut
-                           ullam accusamus! <br /> <br />
-                           Lorem ipsum dolor sit, amet consectetur adipisicing
-                           elit. Facere ipsum dolorum blanditiis architecto ad
-                           corrupti in aspernatur, culpa quia, veniam hic esse
-                           commodi obcaecati, odio natus praesentium
-                           exercitationem ipsa impedit?
+                           King of Memes ($KOM) is a unique deflationary meme
+                           coin that has gained popularity among the crypto
+                           community. Built on the Arbitrum blockchain, $KOM
+                           offers a fun and innovative approach to
+                           cryptocurrency investing while also implementing
+                           deflationary tokenomics that incentivize holding and
+                           discourage selling. <br /> <br />
+                           KOM is a Hyper Deflationary Reward token built on the
+                           ARBITRUM blockchain and the governance token for the
+                           ecosystem.. It has a total supply of 10 billion
+                           tokens, with no plan to mint more. KOM has a tax of
+                           5%, where 1% is for ARB reflection, 3% is for
+                           Marketing and 1% is for automatic burn, reducing the
+                           total supply over time. This model incentivizes
+                           holders to keep their tokens, increasing the value of
+                           the token over time.
                         </p>
                      </div>
                   </div>
